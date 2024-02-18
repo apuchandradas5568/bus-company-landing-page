@@ -1,0 +1,16 @@
+.selected{
+    background-color: #1DD100 !important;
+}
+
+*{
+    scroll-behavior: smooth;
+}
+
+a{
+    cursor: pointer !important;
+}
+
+.unselect{
+    cursor: none !important;
+    user-select: none !important;
+}
